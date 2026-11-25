@@ -1,0 +1,16 @@
+.mcp.json
+.cursor/mcp.json
+.vscode/mcp.json
+.codex/config.toml
+opencode.json
+
+.env
+.env.*
+
+node_modules/
+dist/
+
+npm-debug.log*
+.DS_Store
+*.tsbuildinfo
+coverage/
