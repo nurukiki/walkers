@@ -1,7 +1,5 @@
 # Walkers 프론트엔드
 
-Notion의 [API 명세서](https://app.notion.com/15faa877e85883e483e4819368d8f779), [아키텍쳐](https://app.notion.com/579aa877e85883c9bf6d01b8e69fbf29), [Figma 와이어프레임](https://www.figma.com/design/sJctMAUi7ISDEJnrDlLRHv/UI---UX?node-id=8-2)을 기준으로 구현했습니다.
-
 - `templates/index.html`: HTML 진입점
 - `static/`: React, TypeScript, Emotion UI와 API·카메라·기기 연결 코드
 
